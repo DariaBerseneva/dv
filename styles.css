@@ -11,4 +11,5 @@ text-align: center;
 th {
 	text-align: left;
 }
-p{width:300px;} 
+p{width:300px; 
+	text-align: justify;}
