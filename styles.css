@@ -1,6 +1,5 @@
 p {
-	font-family: "Comic Sans MS";
-}
-h1 {
-	font-family: Arial;
-}
+	font-size: 30px;
+	line-height: 45px;
+	text-align: justify;
+	width: 400px;
