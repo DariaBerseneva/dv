@@ -1,4 +1,12 @@
+#parent {
 
-.eee i {
-	color: red;
+    width: 400px;
+    border: 1px dashed blue;
+}
+#child {
+
+    margin: 50px;
+    height: 300px;
+    border: 1px solid orange;
+
 }
