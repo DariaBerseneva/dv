@@ -4,17 +4,17 @@
 	position: absolute;
 }
 #elem1 {
-	border: 1px solid red;
+	background-color: #FF8888;
 	left: 30px;
 	top: 30px;
 }
 #elem2 {
-	border: 1px solid blue;
+	background-color: #7E89EB;
 	left: 60px;
 	top: 60px;
 }
 #elem3 {
-	border: 1px solid green;
+	background-color: #4DEE99;
 	left: 90px;
 	top: 90px;
 }
