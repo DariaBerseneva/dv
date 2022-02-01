@@ -1,7 +1,6 @@
 
 .parent	{
 	display: flex;
-	width: 900px;
 	margin: 20px auto;
 	border: 1px solid red;
 	}
