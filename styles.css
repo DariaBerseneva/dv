@@ -1,6 +1,6 @@
-.parent {
+.parent	{
 	display: flex;
-	justify-content: space-between;
+	justify-content: space-around;
 	width: 900px;
 	height: 200px;
 	margin: 20px auto;
