@@ -1,4 +1,10 @@
-
-.eee i {
-	color: red;
+#elem1 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid red;
+}
+#elem2 {
+	width: 100px;
+	height: 100px;
+	border: 1px solid green;
 }
