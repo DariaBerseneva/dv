@@ -1,10 +1,18 @@
+#elem1, #elem2, #elem3 {
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	top: 30px;
+}
 #elem1 {
-	width: 200px;
-	height: 200px;
 	border: 1px solid red;
+	left: 30px;
 }
 #elem2 {
-	width: 100px;
-	height: 100px;
+	border: 1px solid blue;
+	left: 100px;
+}
+#elem3 {
 	border: 1px solid green;
+	left: 170px;
 }
