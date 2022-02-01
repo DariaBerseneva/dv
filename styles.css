@@ -1,4 +1,6 @@
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
+	text-align: center
 
-.eee i {
-	color: red;
 }
