@@ -8,13 +8,12 @@
 				background-color: #ff8888;
 				left: 30px;
 				top: 30px;
-				z-index: 2;
 			}
 			#elem2 {
+				z-index: -1;
 				background-color: #7e89eb;
 				left: 60px;
 				top: 60px;
-				z-index: 1;
 			}
 			#elem3 {
 				background-color: #4dee99;
