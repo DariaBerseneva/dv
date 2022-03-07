@@ -8,6 +8,7 @@
 				background-color: #ff8888;
 				left: 30px;
 				top: 30px;
+				z-index: 2;
 			}
 			#elem2 {
 				background-color: #7e89eb;
