@@ -1,4 +1,10 @@
-
-.eee i {
-	color: red;
+div {
+	width: 400px;
+	text-align: justify;
+}
+#o {
+	float: right;
+}
+#d {
+	float: left;
 }
